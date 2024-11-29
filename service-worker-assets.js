@@ -37,7 +37,7 @@
       "url": "sample-data\/weather.json"
     },
     {
-      "hash": "sha256-k8NfwuwCCeOoFCP+4FuP9FeUzGyohHbIWvOxkXEPg\/w=",
+      "hash": "sha256-gvHfnndfEu1tRf0rFb5988rWq7ITIotOaE8+AMbKYbc=",
       "url": "_framework\/blazor.webassembly.js"
     },
     {
@@ -61,7 +61,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-mV+u0mqiRmGbwU8AqJaC5tJOzVJ9i\/L9vaIW4KUVy8k=",
+      "hash": "sha256-v3ubfPDzJzl73WbnJmQ9eBFaKUbbVtJ5Mzhj689vCY8=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -69,23 +69,23 @@
       "url": "_framework\/dotnet.native.8.0.11.ysc9jlr5p0.js"
     },
     {
-      "hash": "sha256-4Vn3BTj24Fya\/7EKHKDlIIg081Wp951ZYoON6wUAOiE=",
+      "hash": "sha256-8qL6NiU5fKimmvcOZDUj64cuOgHlIZQCv\/\/BSRwdOpY=",
       "url": "_framework\/dotnet.native.wasm"
     },
     {
-      "hash": "sha256-8WkG1MSjz5SwPbueeOtMCjuNfmJpygQdFSpRiy+T4Ng=",
+      "hash": "sha256-9hY34TKjDk+8SN5LOwwsbLmuwRabbEazqKqHSw6Yyzk=",
       "url": "_framework\/BlazorSkiaWebAssemblyPerformanceTester.wasm"
     },
     {
-      "hash": "sha256-1U3SqNuJC\/30DI56k7CqIR7U5+hzM8fIIgc17YMF7f4=",
+      "hash": "sha256-lsAFRWLJ\/CuEmAmdbKHgYr7rQXSOmVo2xenAtjRsUTk=",
       "url": "_framework\/Microsoft.AspNetCore.Components.wasm"
     },
     {
-      "hash": "sha256-U8kAur8Blz5X8JD0MyCQORySBJIF0EkJv1mWZfmGpYw=",
+      "hash": "sha256-Ne2wGL1yNWEhrnx4vNqIGHgBQR712\/CQyGl44\/UkKmQ=",
       "url": "_framework\/Microsoft.AspNetCore.Components.Web.wasm"
     },
     {
-      "hash": "sha256-jrdFRjrF1131MZ3HGQVsI3dX8cLdZvPz85lsBltxjSM=",
+      "hash": "sha256-mq9Bf+1fRF6YC\/ro2NPxtoh+szT1wSIzMzJ6FpNjYu8=",
       "url": "_framework\/Microsoft.AspNetCore.Components.WebAssembly.wasm"
     },
     {
@@ -93,7 +93,7 @@
       "url": "_framework\/Microsoft.Extensions.Configuration.Abstractions.wasm"
     },
     {
-      "hash": "sha256-Sxmy2ZS134URxbHEvdbS6NcQ3zXS7UWx\/5ZPpwiW7FA=",
+      "hash": "sha256-\/VUEfhgVp9FCU1rXnSNAI1mtW6EO5DpkV\/5UNWDR\/es=",
       "url": "_framework\/Microsoft.Extensions.Configuration.Json.wasm"
     },
     {
@@ -101,19 +101,19 @@
       "url": "_framework\/Microsoft.Extensions.Configuration.wasm"
     },
     {
-      "hash": "sha256-qFPcWaRT3TLje0Ka8NtmslI37vhqDxIH0UFb3lOPxVs=",
+      "hash": "sha256-tTyBrIIHDToCFUxpMRTio3\/zGq5Leb+aO7ek53hvljg=",
       "url": "_framework\/Microsoft.Extensions.DependencyInjection.Abstractions.wasm"
     },
     {
-      "hash": "sha256-gg8xZqJsBBrrNEyUGzYqhL3sqkuZ4AHAvdTdL9nZ0S0=",
+      "hash": "sha256-T\/+qPF0RWC8dfbLNFgoTfla+JM2H3eY5L17aqODwzFc=",
       "url": "_framework\/Microsoft.Extensions.DependencyInjection.wasm"
     },
     {
-      "hash": "sha256-+Fgk2a7GOZ76M3YfJ+0IDUowOMx8\/LBnDwuIKQr+\/IA=",
+      "hash": "sha256-hjj6wXi\/qXOzMmZsVjA1ybOZrS0NloJwXftQdoUeV0s=",
       "url": "_framework\/Microsoft.Extensions.Logging.Abstractions.wasm"
     },
     {
-      "hash": "sha256-8BH+kQfjYuZWxprOICXJ4+tU0OdJOYDKN7G0S3zYYHI=",
+      "hash": "sha256-gRNqDIITN9\/LJz459bgijHJ1O+l5fzsybyrFhw0Iqa4=",
       "url": "_framework\/Microsoft.Extensions.Logging.wasm"
     },
     {
@@ -125,19 +125,19 @@
       "url": "_framework\/Microsoft.Extensions.Primitives.wasm"
     },
     {
-      "hash": "sha256-UqB5dg8hmiMW1hUKDlzfzvoTGM6vul4rSLstvipdZKg=",
+      "hash": "sha256-7Yy36ma0gW9\/tChK+2ZylxAHBSu5bNSGvbdoyxL3sJ4=",
       "url": "_framework\/Microsoft.JSInterop.wasm"
     },
     {
-      "hash": "sha256-2qBJkLnOCr4py2S0peps0cFo0z3Ew9OVwGYodtvAVkk=",
+      "hash": "sha256-2bohIT7\/qEC9nPtjBrESwyddQ86eqIfABSFaK7lb55A=",
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.wasm"
     },
     {
-      "hash": "sha256-0xaV5JtsG2tclSqXDflOuEsjaJlYeYiAbKg1TAjKvBM=",
+      "hash": "sha256-WDKvR8STl1nlDNu6oBeLRo+qh1C2y\/Q547cC6Q9Lc6U=",
       "url": "_framework\/SkiaSharp.Views.Blazor.wasm"
     },
     {
-      "hash": "sha256-COS3b1CQ1N9MOlYY8oYqKviuatHJq0rxDVW2fv5Znkk=",
+      "hash": "sha256-ATv5azfYeZBv0JKdvGh8y9p+CidEJRRPvAuyhkWyZ5Y=",
       "url": "_framework\/SkiaSharp.wasm"
     },
     {
@@ -181,7 +181,7 @@
       "url": "_framework\/System.Net.Primitives.wasm"
     },
     {
-      "hash": "sha256-owuOexCZo7ZTvN0FQ73LPGLo\/AjXHttgz7u4ilh4or0=",
+      "hash": "sha256-nZF6zADlpuUvPdgTKeFawBjxkGfyuFQQKgEzHfOSvqc=",
       "url": "_framework\/System.Private.CoreLib.wasm"
     },
     {
@@ -229,5 +229,5 @@
       "url": "_content\/SkiaSharp.Views.Blazor\/SKHtmlCanvas.js"
     }
   ],
-  "version": "IYu4\/iSK"
+  "version": "P8sqNRmJ"
 };
